@@ -1,10 +1,10 @@
 # ZSH configuration
 
-**Font**
-Hack
+### Font
+[Hack](https://github.com/chrissimpkins/Hack)
 
-**Terminal colors**
-Solarized dark
+### Terminal colors
+[Solarized dark](http://ethanschoonover.com/solarized)
 
-**Zsh theme**
-Bullet-train
+### Zsh theme
+[Bullet-train](https://github.com/caiogondim/bullet-train-oh-my-zsh-theme)
