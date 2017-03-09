@@ -7,4 +7,5 @@
 [Solarized dark](http://ethanschoonover.com/solarized)
 
 ### Zsh theme
-[Bullet-train](https://github.com/caiogondim/bullet-train-oh-my-zsh-theme)
+* [Bullet-train](https://github.com/caiogondim/bullet-train-oh-my-zsh-theme)
+* [Pure](https://github.com/sindresorhus/pure)
